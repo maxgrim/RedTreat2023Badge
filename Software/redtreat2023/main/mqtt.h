@@ -1,0 +1,1 @@
+void mqtt_app_start(const char *username, void (*message_callback)(char *, int), void (*connect_callback)(void), void (*disconnect_callback)(void), void (*error_callback)(void));

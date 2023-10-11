@@ -1,0 +1,15 @@
+menu "RedTreat 2023 Configuration"
+
+    config BROKER_URL
+        string "MQTT Broker URL"
+        default "mqtt://badge2023.treat.red"
+        help
+            URL of the broker to connect to
+
+    config BROKER_PASSWORD
+        string "MQTT Broker password"
+        default "<fill in password>"
+        help
+            Password for the broker to authenticate with
+        
+endmenu
