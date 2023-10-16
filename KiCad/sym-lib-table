@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "badgelife_shitty_addon_v169bis")(type "Legacy")(uri "${KIPRJMOD}/badgelife-parts/badgelife_shitty_addon_v169bis.lib")(options "")(descr ""))
+)
